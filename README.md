@@ -1,5 +1,5 @@
 # Rocketseat
-Imersão Next level Week Rocketseat com: Html,CSS,JavaScript<br>
+Imersão Next level Week Rocketseat com: Html/CSS/JavaScript<br>
 Para executar o projeto segue os passos:<br>
 1- Entrar na - cd Rocketseat/<br>
 2- Baixar os pacotes- npm install<br>
